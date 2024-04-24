@@ -6,12 +6,6 @@
     "phone": "(992) 914-3792"
   },
   {
-    "id": "qdggE76Jtbfd9eWJHrssH",
-    "name": "Chaim Lewis",
-    "email": "dui.in@egetlacus.ca",
-    "phone": "(294) 840-6685"
-  },
-  {
     "id": "drsAJ4SHPYqZeG-83QTVW",
     "name": "Kennedy Lane",
     "email": "mattis.Cras@nonenimMauris.net",
@@ -55,8 +49,20 @@
   },
   {
     "id": "rsKkOQUi80UsgVPCcLZZW",
-    "name": "Alec Howard",
+    "name": "Alex Howard",
     "email": "Donec.elementum@scelerisquescelerisquedui.net",
     "phone": "(748) 206-2688"
+  },
+  {
+    "id": "7bdaf493-3a10-448e-b330-f0e0d7535fb5",
+    "name": "Test name",
+    "email": "test@example.com",
+    "phone": "12345678"
+  },
+  {
+    "id": "a111e794-362e-4faf-b791-6bb937a392ed",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22"
   }
 ]
